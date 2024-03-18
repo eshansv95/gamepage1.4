@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(141, 77, 193);
+    font-size: 25px;
+}
+#btn{
+    font-size: 45px;
+}
+P{
+    text-transform: capitalize;
+}
+p{
+    text-transform: capitalize;
+}
